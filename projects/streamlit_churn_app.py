@@ -5,7 +5,7 @@ import joblib
 from sklearn.preprocessing import StandardScaler
 
 # Load model and scaler
-model = joblib.load("model.pkl")
+model = joblib.load("projects\model.pkl")
 scaler = joblib.load("scaler.pkl")
 
 st.set_page_config(page_title="Customer Churn Prediction", layout="centered")
