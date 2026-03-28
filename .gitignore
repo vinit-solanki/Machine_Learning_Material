@@ -1,3 +1,18 @@
 .devcontainer
 .ipynb_checkpoints
 myenv
+.ipynb_checkpoints 
+celebrity_face_generator_dcgan/
+celebrity_face_generator_dcgan
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+Celebrity Faces Dataset/
+pyvenv.cfg
+env/
+venv/
+myenv/
+myenv
+Lib/
